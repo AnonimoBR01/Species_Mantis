@@ -1,0 +1,87 @@
+body{
+    font-family: 'Poltawski Nowy', serif;
+    font-family: 'Raleway', sans-serif;
+}
+.cabeçario{
+    background-color: #8c22ca;
+    display: flex;
+    justify-content: space-around;
+}
+.logo{
+    width: 40%;
+}
+.descrição{
+    font-size: 200%;
+}
+.imagem1{
+    width: 20%;
+}
+.sobre{
+    background-image: linear-gradient(#8c22ca, #88993b);
+    display: flex;
+    justify-content: space-around;
+    padding: 50px 0;
+    align-items: center;
+}
+.texto1{
+    width: 50%;
+}
+.titulo1{
+    padding: 24px 0;
+}
+.MOMimage{
+    width: 40%;
+}
+.GMimage{
+    width: 50%;
+}
+.EMimage{
+    width: 60%;
+}
+.SFMimage{
+    width: 40%;
+}
+.DFMimage{
+    width: 50%;
+}
+.DMimage{
+    width: 60%;
+}
+.icones{
+    width: 24px;
+}
+.species{
+    text-align: center;
+    padding: 50px 0;
+}
+.MOMdiv{
+    text-align: center;
+}
+.GMdiv{
+    text-align: center;
+}
+.EMdiv{
+    text-align: center;
+}
+.SFMdiv{
+    text-align: center;
+}
+.DFMdiv{
+    text-align: center;
+}
+.DMdiv{
+    text-align: center;
+}
+.SpeciesAll{
+    display: grid;
+    grid-template-columns: 20% 20% 20% 20% 20%;
+}
+.rodapé{
+    background-color: #88993b;
+    padding: 10px 0;
+text-align: center;
+    
+}
+.imagem2{
+    width: 140px;
+}
